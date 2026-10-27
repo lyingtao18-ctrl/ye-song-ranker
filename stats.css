@@ -1,0 +1,16 @@
+.community-open{flex-shrink:0;align-self:flex-start;margin-top:8px}
+.ghost:disabled{opacity:.55;cursor:default}
+.community-panel{margin:24px 0 30px;padding:24px;border:1px solid #667143;background:linear-gradient(135deg,#1b2115,#10120f)}
+.community-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:16px}.community-heading h2{font:700 clamp(30px,5vw,52px)/1 var(--serif);letter-spacing:-.04em;margin:12px 0}
+.community-heading>.ghost{white-space:nowrap;flex-shrink:0}
+.community-description,.community-privacy{font-size:12px;line-height:1.8;color:var(--muted)}
+.community-summary{display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin:22px 0;padding:16px 0;border-block:1px solid var(--line)}
+.community-summary strong{font:700 42px var(--serif);color:var(--acid)}.community-summary span{font-size:12px;color:var(--muted)}
+.community-status{font-size:12px;color:var(--muted);line-height:1.7}.community-table{list-style:none;padding:0;margin:18px 0}
+.community-row{display:grid;grid-template-columns:35px minmax(0,1fr) 85px;gap:12px;align-items:center;padding:14px 0;border-top:1px solid var(--line)}
+.community-rank{font:700 23px var(--serif);color:var(--acid)}.community-song{min-width:0}.community-song b{display:block;font:700 18px var(--serif);overflow-wrap:anywhere}
+.community-song small{display:block;font-size:10px;color:var(--muted);margin-top:5px}.community-rate{text-align:right;color:var(--acid);font-weight:800;font-size:17px}.community-rate small{display:block;color:var(--muted);font-size:10px;font-weight:400;margin-top:4px}
+.community-meter{margin-top:9px;height:3px;background:#2d3224}.community-meter i{display:block;height:100%;background:var(--acid)}
+.stats-consent{display:block;margin:0 0 20px;color:var(--muted);font-size:11px;line-height:1.8}.stats-consent input{accent-color:var(--acid);vertical-align:middle;margin-right:6px}
+.stats-result{border:1px solid var(--line);padding:16px;margin:22px 0;line-height:1.8}.stats-result p{font-size:12px;color:var(--muted);margin:0 0 10px}.stats-result-status{font-size:12px;color:var(--acid);margin-left:10px}
+@media(max-width:760px){.community-panel{padding:17px}.community-open{margin-top:14px}.community-heading h2{font-size:32px}.community-row{gap:8px;grid-template-columns:27px minmax(0,1fr) 72px}.community-song b{font-size:16px}.community-summary{gap:14px}.stats-result-status{display:block;margin:10px 0 0}}
