@@ -1,222 +1,354 @@
 {
   "24": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/0e/28/390e286f-d6cf-3ea9-dd8f-0d8d1b3d8851/mzaf_8137082540880050682.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/13/7b/62137b3f-7722-59f5-2ee1-b5aff9426869/21UMGIM64738.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/donda.jpg"
   },
   "Reborn": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/54/44/f5544486-5329-c75e-21f7-d9d18ce1d156/mzaf_3655144597685704867.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/2e/d3/3f2ed3b1-d260-4e92-816b-4beac102c676/00602567794318.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/kids-see-ghosts.jpg"
   },
   "CARNIVAL": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/aa/7b/5aaa7bfb-6bd4-39e0-deb7-3cacc151b7ce/mzaf_14985584654958729643.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/0c/a5/c20ca53d-ae1e-31eb-af1d-faffc0b1b286/354766.jpg/600x600bb.jpg"
+    "cover": "covers/vultures-1.jpg"
   },
   "BURN": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/7c/ed/fd7ced82-e342-a13c-7b09-ebbb01545924/mzaf_15329038141591295150.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/0c/a5/c20ca53d-ae1e-31eb-af1d-faffc0b1b286/354766.jpg/600x600bb.jpg"
+    "cover": "covers/vultures-1.jpg"
   },
   "FIELD TRIP": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/fe/c4/05fec4b1-9e6e-8b13-2d57-0021df79142e/mzaf_3743826061321973741.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/db/25/bfdb25f8-1518-d6d9-32ad-053cc9f87d88/357949.jpg/600x600bb.jpg"
+    "cover": "covers/vultures-2.jpg"
   },
   "PROMOTION": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f6/ed/03/f6ed034d-34e4-0c2a-854a-be39ceaa8449/mzaf_8943935458127569319.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/db/25/bfdb25f8-1518-d6d9-32ad-053cc9f87d88/357949.jpg/600x600bb.jpg"
+    "cover": "covers/vultures-2.jpg"
   },
   "FATHER": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0a/9f/75/0a9f75c2-4533-9b32-f056-b10a0c62833e/mzaf_5991244608274396835.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/38/d1/4b38d146-381d-ace2-73df-24074576e62b/656465138828_cover.jpg/600x600bb.jpg"
+    "cover": "covers/bully.jpg"
   },
   "ALL THE LOVE": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/a6/f0/0da6f0f2-0145-676d-9f9c-d28c7e08f258/mzaf_2658965377541339594.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/38/d1/4b38d146-381d-ace2-73df-24074576e62b/656465138828_cover.jpg/600x600bb.jpg"
+    "cover": "covers/bully.jpg"
   },
   "PREACHER MAN": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/f6/9a/3ef69ade-7cd2-3bd5-a744-70132ae9da63/mzaf_3645644956333384237.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/38/d1/4b38d146-381d-ace2-73df-24074576e62b/656465138828_cover.jpg/600x600bb.jpg"
+    "cover": "covers/bully.jpg"
   },
   "On Sight": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/20/b2/2220b229-f9c5-33d1-6d76-529c82cdeb19/mzaf_8384663283836257071.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/56/e7/3c56e717-06a0-b67d-e694-9b6e6e43a5a8/13UAAIM08444.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/yeezus.jpg"
   },
   "Black Skinhead": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/62/66/1b6266b0-88cc-d515-bf08-713d1a71da45/mzaf_244041336176950306.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/56/e7/3c56e717-06a0-b67d-e694-9b6e6e43a5a8/13UAAIM08444.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/yeezus.jpg"
   },
   "New Slaves": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/d1/64/0dd1649a-ee3b-9344-8a83-cc6491e0ebf6/mzaf_10868908415384210018.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/56/e7/3c56e717-06a0-b67d-e694-9b6e6e43a5a8/13UAAIM08444.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/yeezus.jpg"
   },
   "Hold My Liquor": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/60/5c/60605cd7-91c0-eccc-9d8c-facce45b219e/mzaf_9940248228046037401.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/56/e7/3c56e717-06a0-b67d-e694-9b6e6e43a5a8/13UAAIM08444.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/yeezus.jpg"
   },
   "Blood on the Leaves": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/a7/48/8ca7489c-02f3-6248-f48e-f324db693d2a/mzaf_4041991203307744989.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/56/e7/3c56e717-06a0-b67d-e694-9b6e6e43a5a8/13UAAIM08444.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/yeezus.jpg"
   },
   "Bound 2": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/3c/3b/bf3c3b3e-db3a-f984-7998-10704700bfbf/mzaf_13841565862153687298.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/56/e7/3c56e717-06a0-b67d-e694-9b6e6e43a5a8/13UAAIM08444.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/yeezus.jpg"
   },
   "Saint Pablo": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/cc/8e/c6cc8e72-31eb-7d2b-53db-1341a655dd5a/mzaf_7043865966133385187.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ab/74/4a/ab744ae9-235f-0a2f-9f8a-74ddee3c339e/16UMGIM37046.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/the-life-of-pablo.jpg"
   },
   "Niggas in Paris": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/b7/24/6fb724f8-ed43-d85b-5a8d-a384801cdf97/mzaf_711589637216351513.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/f5/07/18f5070d-b5dc-796c-bce4-42badb41a762/00602527812526.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/watch-the-throne.jpg"
   },
   "Diamonds from Sierra Leone (Remix)": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/f8/6d/09f86d03-b99b-d921-ce67-c1f058195902/mzaf_14079398133785976236.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/late-registration.jpg"
   },
   "No More Parties in LA": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/04/d8/f204d8ce-4464-28a5-d472-6a9c8daea89e/mzaf_4992019310483157800.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/fd/e0/ecfde04e-6db2-e55e-41fe-83c87a52b16e/00602547908339.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/the-life-of-pablo.jpg"
   },
   "No Church in the Wild": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/ab/24/ecab24b7-1ef6-1c70-cbc8-23ed0752d7d1/mzaf_16624193469832222541.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/f5/07/18f5070d-b5dc-796c-bce4-42badb41a762/00602527812526.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/watch-the-throne.jpg"
   },
   "Praise God": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/13/9d/0b/139d0b59-6832-f460-565b-41e1b1bab7d6/mzaf_14275243268091394926.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/13/7b/62137b3f-7722-59f5-2ee1-b5aff9426869/21UMGIM64738.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/donda.jpg"
   },
   "Hurricane": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/e2/73/03e2732a-c202-8794-ec01-7d0253ba88cd/mzaf_3961341036867903846.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/a7/f9/cfa7f9be-2d62-89a4-19bf-26276ab39f16/21UMGIM64738.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/donda.jpg"
   },
   "Moon": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/74/5f/de745f1c-bc7f-f5e4-5be1-d74a80b3aaa5/mzaf_12631933977879313611.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/13/7b/62137b3f-7722-59f5-2ee1-b5aff9426869/21UMGIM64738.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/donda.jpg"
   },
   "Believe What I Say": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/4e/d7/484ed7e1-84ff-5bef-cec4-e245baa7b650/mzaf_8932863959888249679.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/a7/f9/cfa7f9be-2d62-89a4-19bf-26276ab39f16/21UMGIM64738.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/donda.jpg"
   },
   "Pure Souls": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/db/32/41db328d-6c03-7478-1990-1284662b6cf6/mzaf_15824433932258601838.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/a7/f9/cfa7f9be-2d62-89a4-19bf-26276ab39f16/21UMGIM64738.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/donda.jpg"
   },
   "Jesus Lord": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8b/68/11/8b68110d-d54c-2206-5c6b-7ad629196712/mzaf_7964332869586064512.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/a7/f9/cfa7f9be-2d62-89a4-19bf-26276ab39f16/21UMGIM64738.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/donda.jpg"
   },
   "I Thought About Killing You": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/13/cb/9913cbca-ff63-4c38-6f6d-601ea071c00f/mzaf_5147182800550386106.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/92/62/f892628e-bfd5-2437-c1f5-0ebbd366de09/00602577303098.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/ye.jpg"
   },
   "Heaven and Hell": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/4a/aa/904aaa7b-ab93-08e4-f18d-e4ded59c052d/mzaf_17251827131481071841.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/13/7b/62137b3f-7722-59f5-2ee1-b5aff9426869/21UMGIM64738.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/donda.jpg"
   },
   "Jail": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/87/3d/e2873db5-442a-1ba3-7aa0-994be8244be1/mzaf_5830641248699207801.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/13/7b/62137b3f-7722-59f5-2ee1-b5aff9426869/21UMGIM64738.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/donda.jpg"
   },
   "Wouldn't Leave": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/58/cd/a958cd62-d836-4485-d37f-644ddf91df0a/mzaf_10311864145319142834.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/92/62/f892628e-bfd5-2437-c1f5-0ebbd366de09/00602577303098.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/ye.jpg"
   },
   "Yikes": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/fb/cc/6cfbcce7-d4dc-0e1d-08a1-70bd209768d4/mzaf_14864412214479914896.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/92/62/f892628e-bfd5-2437-c1f5-0ebbd366de09/00602577303098.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/ye.jpg"
   },
   "Feel the Love": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/68/b3/6868b383-40df-7518-c05e-4aa9db225c5a/mzaf_12472016709029853114.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/2e/d3/3f2ed3b1-d260-4e92-816b-4beac102c676/00602567794318.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/kids-see-ghosts.jpg"
   },
   "Fire": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/87/9b/d3879b5a-683e-1181-ecad-04d132f61c3c/mzaf_5632232967980189764.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/2e/d3/3f2ed3b1-d260-4e92-816b-4beac102c676/00602567794318.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/kids-see-ghosts.jpg"
   },
   "4th Dimension": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/e8/51/99e85183-41a2-e42b-68ea-38ebc8aa0d71/mzaf_11460196976540124012.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/2e/d3/3f2ed3b1-d260-4e92-816b-4beac102c676/00602567794318.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/kids-see-ghosts.jpg"
   },
   "No Mistakes": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/b4/14/70b41480-107a-1b2f-9450-9f40d7d35b2e/mzaf_9377245994019198723.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/92/62/f892628e-bfd5-2437-c1f5-0ebbd366de09/00602577303098.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/ye.jpg"
   },
   "Freeee (Ghost Town Pt. 2)": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/f1/20/b1f12027-14a5-2ef6-dab1-323074507f3e/mzaf_15585309897983409618.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/2e/d3/3f2ed3b1-d260-4e92-816b-4beac102c676/00602567794318.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/kids-see-ghosts.jpg"
   },
   "Cudi Montage": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/0f/ec/930fec74-573d-b2d4-bd4d-14db5bf56224/mzaf_17853391198374990532.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/2e/d3/3f2ed3b1-d260-4e92-816b-4beac102c676/00602567794318.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/kids-see-ghosts.jpg"
   },
   "God Is": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/65/ff/4365ffa2-ea9a-71a4-01c7-813a4c5fab5d/mzaf_17674119153591853744.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/21/fd/d3/21fdd3d4-0c00-53ef-3903-d0569c49a812/19UMGIM89397.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/jesus-is-king.jpg"
   },
   "Kids See Ghosts": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/4b/c7/c14bc767-caf1-eb2e-947f-a7c32dcd93a7/mzaf_3219534666284807791.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/2e/d3/3f2ed3b1-d260-4e92-816b-4beac102c676/00602567794318.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/kids-see-ghosts.jpg"
   },
   "Follow God": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/3e/56/243e561b-2d5d-71e8-90a7-184f0da6a77e/mzaf_11750952697665215376.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/21/fd/d3/21fdd3d4-0c00-53ef-3903-d0569c49a812/19UMGIM89397.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/jesus-is-king.jpg"
   },
   "Selah": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/93/46/a29346e9-aceb-7189-1ab7-867a94f301e7/mzaf_6373443483443803210.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/21/fd/d3/21fdd3d4-0c00-53ef-3903-d0569c49a812/19UMGIM89397.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/jesus-is-king.jpg"
   },
   "On God": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/5c/05/355c0564-5666-b15e-88d3-a91fe1a80b36/mzaf_14252649110834335245.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/21/fd/d3/21fdd3d4-0c00-53ef-3903-d0569c49a812/19UMGIM89397.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/jesus-is-king.jpg"
   },
   "BACK TO ME": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/88/94/f48894ae-d2d7-b381-045e-eb5436118857/mzaf_9186813461109390091.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/0c/a5/c20ca53d-ae1e-31eb-af1d-faffc0b1b286/354766.jpg/600x600bb.jpg"
+    "cover": "covers/vultures-1.jpg"
   },
   "STARS": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/0f/81/ee0f8152-c44f-68d7-1ce8-692d6986b344/mzaf_15339089569300401658.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/0c/a5/c20ca53d-ae1e-31eb-af1d-faffc0b1b286/354766.jpg/600x600bb.jpg"
+    "cover": "covers/vultures-1.jpg"
   },
   "PROBLEMATIC": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/fe/04/b1fe047a-bddf-9f1b-9261-80e8aa613765/mzaf_16543422625714057105.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/0c/a5/c20ca53d-ae1e-31eb-af1d-faffc0b1b286/354766.jpg/600x600bb.jpg"
+    "cover": "covers/vultures-1.jpg"
   },
   "DO IT": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/56/62/e956620a-63ed-5894-bb8d-c47b27d81a66/mzaf_6870114348001766348.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/0c/a5/c20ca53d-ae1e-31eb-af1d-faffc0b1b286/354766.jpg/600x600bb.jpg"
+    "cover": "covers/vultures-1.jpg"
   },
   "RIVER": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/15/e3/3b15e32d-157e-abf2-8761-54665264265f/mzaf_8736626037444591362.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/db/25/bfdb25f8-1518-d6d9-32ad-053cc9f87d88/357949.jpg/600x600bb.jpg"
+    "cover": "covers/vultures-2.jpg"
   },
   "New Day": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/50/c7/3050c77f-b7bf-d0d8-884b-8f8c1dec6890/mzaf_197597938213429861.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/f5/07/18f5070d-b5dc-796c-bce4-42badb41a762/00602527812526.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/watch-the-throne.jpg"
   },
   "Murder to Excellence": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/f1/77/93f177c0-c8a6-9756-f495-1655165bf61c/mzaf_6213384083293695362.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/f5/07/18f5070d-b5dc-796c-bce4-42badb41a762/00602527812526.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/watch-the-throne.jpg"
   },
   "SLIDE": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/0e/56/df0e5670-f852-bbab-2207-b94d8ab9c519/mzaf_14001328131728842404.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/db/25/bfdb25f8-1518-d6d9-32ad-053cc9f87d88/357949.jpg/600x600bb.jpg"
+    "cover": "covers/vultures-2.jpg"
   },
   "BEAUTY AND THE BEAST": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/43/74/b3/4374b31b-4f4c-7679-2579-3d1fe5e3330b/mzaf_9126685695619964813.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/38/d1/4b38d146-381d-ace2-73df-24074576e62b/656465138828_cover.jpg/600x600bb.jpg"
+    "cover": "covers/bully.jpg"
   },
   "Love Lockdown": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/41/a0/cd41a029-144c-ef10-b945-5c29b0966552/mzaf_16533792012921979472.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4d/75/2d/4d752db1-022d-f65d-40a1-a2390f01427a/13UAEIM26465.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/808s-heartbreak.jpg"
   },
   "Welcome to Heartbreak": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/74/33/4574338a-7a61-8e23-c83c-f0d1093cdc39/mzaf_7146393203303618033.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4d/75/2d/4d752db1-022d-f65d-40a1-a2390f01427a/13UAEIM26465.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/808s-heartbreak.jpg"
   },
   "Say You Will": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/66/48/bd664829-e740-907c-f1b1-e886eb04383c/mzaf_2589743817157851735.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/5c/f2/fb5cf235-2ae9-34c3-1ddb-ef896fb14175/16UMGIM58688.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/808s-heartbreak.jpg"
   },
   "Amazing": {
     "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/69/4c/fa694c0f-c645-fd36-fa6a-8ae182e7ce86/mzaf_6111461460443869199.plus.aac.p.m4a",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/5c/f2/fb5cf235-2ae9-34c3-1ddb-ef896fb14175/16UMGIM58688.rgb.jpg/600x600bb.jpg"
+    "cover": "covers/808s-heartbreak.jpg"
+  },
+  "Life Of The Party": {
+    "cover": "covers/donda.jpg"
+  },
+  "Ghost Town": {
+    "cover": "covers/ye.jpg"
+  },
+  "All Falls Down": {
+    "cover": "covers/the-college-dropout.jpg"
+  },
+  "Touch the Sky": {
+    "cover": "covers/late-registration.jpg"
+  },
+  "Runaway": {
+    "cover": "covers/my-beautiful-dark-twisted-fantasy.jpg"
+  },
+  "Through the Wire": {
+    "cover": "covers/the-college-dropout.jpg"
+  },
+  "We Major": {
+    "cover": "covers/late-registration.jpg"
+  },
+  "Devil in a New Dress": {
+    "cover": "covers/my-beautiful-dark-twisted-fantasy.jpg"
+  },
+  "Only One": {
+    "cover": "covers/only-one.jpg"
+  },
+  "White Dress": {
+    "cover": "covers/the-man-with-the-iron-fists-ost.jpg"
+  },
+  "Family Business": {
+    "cover": "covers/the-college-dropout.jpg"
+  },
+  "Flashing Lights": {
+    "cover": "covers/graduation.jpg"
+  },
+  "POWER": {
+    "cover": "covers/my-beautiful-dark-twisted-fantasy.jpg"
+  },
+  "Jesus Walks": {
+    "cover": "covers/the-college-dropout.jpg"
+  },
+  "I Wonder": {
+    "cover": "covers/graduation.jpg"
+  },
+  "Roses": {
+    "cover": "covers/late-registration.jpg"
+  },
+  "Hey Mama": {
+    "cover": "covers/late-registration.jpg"
+  },
+  "Slow Jamz": {
+    "cover": "covers/the-college-dropout.jpg"
+  },
+  "Heard 'Em Say": {
+    "cover": "covers/late-registration.jpg"
+  },
+  "Violent Crimes": {
+    "cover": "covers/ye.jpg"
+  },
+  "Dark Fantasy": {
+    "cover": "covers/my-beautiful-dark-twisted-fantasy.jpg"
+  },
+  "Spaceship": {
+    "cover": "covers/the-college-dropout.jpg"
+  },
+  "Homecoming": {
+    "cover": "covers/graduation.jpg"
+  },
+  "New God Flow": {
+    "cover": "covers/cruel-summer.jpg"
+  },
+  "All of the Lights": {
+    "cover": "covers/my-beautiful-dark-twisted-fantasy.jpg"
+  },
+  "Father Stretch My Hands Pt. 1": {
+    "cover": "covers/the-life-of-pablo.jpg"
+  },
+  "Heartless": {
+    "cover": "covers/808s-heartbreak.jpg"
+  },
+  "See Me Now": {
+    "cover": "covers/my-beautiful-dark-twisted-fantasy.jpg"
+  },
+  "Ultralight Beam": {
+    "cover": "covers/the-life-of-pablo.jpg"
+  },
+  "Mercy": {
+    "cover": "covers/cruel-summer.jpg"
+  },
+  "Come to Life": {
+    "cover": "covers/donda.jpg"
+  },
+  "Good Morning": {
+    "cover": "covers/graduation.jpg"
+  },
+  "Everything I Am": {
+    "cover": "covers/graduation.jpg"
+  },
+  "Stronger": {
+    "cover": "covers/graduation.jpg"
+  },
+  "Paranoid": {
+    "cover": "covers/808s-heartbreak.jpg"
+  },
+  "Champion": {
+    "cover": "covers/graduation.jpg"
+  },
+  "Gorgeous": {
+    "cover": "covers/my-beautiful-dark-twisted-fantasy.jpg"
+  },
+  "Street Lights": {
+    "cover": "covers/808s-heartbreak.jpg"
+  },
+  "Off the Grid": {
+    "cover": "covers/donda.jpg"
+  },
+  "Otis": {
+    "cover": "covers/watch-the-throne.jpg"
+  },
+  "Gold Digger": {
+    "cover": "covers/late-registration.jpg"
+  },
+  "Waves": {
+    "cover": "covers/the-life-of-pablo.jpg"
+  },
+  "Famous": {
+    "cover": "covers/the-life-of-pablo.jpg"
+  },
+  "Good Life": {
+    "cover": "covers/graduation.jpg"
   }
 }
