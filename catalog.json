@@ -1,5 +1,5 @@
 {
-  "version": "ye100-2026-10-v1",
+  "version": "ye100-2026-10-collabs-v2",
   "songs": [
     {
       "id": 0,
@@ -450,10 +450,10 @@
     },
     {
       "id": 70,
-      "title": "Pure Souls",
-      "album": "Donda",
-      "artist": "Kanye West · Roddy Ricch · Shenseea",
-      "trackId": 1595497103
+      "title": "Jukebox Joints",
+      "album": "AT.LONG.LAST.A$AP",
+      "artist": "A$AP Rocky feat. Kanye West & Joe Fox",
+      "trackId": 994721767
     },
     {
       "id": 71,
@@ -464,10 +464,10 @@
     },
     {
       "id": 72,
-      "title": "Jail",
-      "album": "Donda",
-      "artist": "Kanye West · Jay-Z",
-      "trackId": 1587795181
+      "title": "SMUCKERS",
+      "album": "Cherry Bomb + Instrumentals",
+      "artist": "Tyler, The Creator feat. Kanye West & Lil Wayne",
+      "trackId": 1438243983
     },
     {
       "id": 73,
@@ -485,17 +485,17 @@
     },
     {
       "id": 75,
-      "title": "Wouldn't Leave",
-      "album": "ye",
-      "artist": "Kanye West · PARTYNEXTDOOR · Jeremih · Ty Dolla $ign",
-      "trackId": 1441460379
+      "title": "Sanctified",
+      "album": "Mastermind (Deluxe Version)",
+      "artist": "Rick Ross feat. Kanye West & Big Sean",
+      "trackId": 1443079666
     },
     {
       "id": 76,
-      "title": "No Mistakes",
-      "album": "ye",
-      "artist": "Kanye West · Kid Cudi · Charlie Wilson",
-      "trackId": 1441460380
+      "title": "Erase Me",
+      "album": "Man On the Moon, Vol. II: The Legend of Mr. Rager (Bonus Track Version)",
+      "artist": "Kid Cudi feat. Kanye West",
+      "trackId": 1442990329
     },
     {
       "id": 77,
@@ -506,10 +506,10 @@
     },
     {
       "id": 78,
-      "title": "Fire",
-      "album": "KIDS SEE GHOSTS",
-      "artist": "KIDS SEE GHOSTS",
-      "trackId": 1397652554
+      "title": "Put On",
+      "album": "The Recession (Bonus Track Version)",
+      "artist": "Young Jeezy feat. Kanye West",
+      "trackId": 1442209188
     },
     {
       "id": 79,
@@ -520,10 +520,10 @@
     },
     {
       "id": 80,
-      "title": "Freeee (Ghost Town Pt. 2)",
-      "album": "KIDS SEE GHOSTS",
-      "artist": "KIDS SEE GHOSTS · Ty Dolla $ign",
-      "trackId": 1397652556
+      "title": "Run This Town",
+      "album": "The Blueprint 3",
+      "artist": "JAY-Z feat. Rihanna & Kanye West",
+      "trackId": 1440932016
     },
     {
       "id": 81,
@@ -555,24 +555,24 @@
     },
     {
       "id": 85,
-      "title": "Selah",
-      "album": "JESUS IS KING",
-      "artist": "Kanye West",
-      "trackId": 1484937098
+      "title": "American Boy",
+      "album": "Shine (Deluxe)",
+      "artist": "Estelle feat. Kanye West",
+      "trackId": 1751359097
     },
     {
       "id": 86,
-      "title": "On God",
-      "album": "JESUS IS KING",
-      "artist": "Kanye West",
-      "trackId": 1484937114
+      "title": "Forever",
+      "album": "Relapse: Refill",
+      "artist": "Drake, Kanye West, Lil Wayne & Eminem",
+      "trackId": 1443265933
     },
     {
       "id": 87,
-      "title": "STARS",
-      "album": "VULTURES 1",
-      "artist": "¥$ · Kanye West · Ty Dolla $ign",
-      "trackId": 1760997039
+      "title": "THat Part",
+      "album": "Blank Face LP",
+      "artist": "ScHoolboy Q feat. Kanye West",
+      "trackId": 1442872515
     },
     {
       "id": 88,
@@ -583,17 +583,17 @@
     },
     {
       "id": 89,
-      "title": "DO IT",
-      "album": "VULTURES 1",
-      "artist": "¥$ · Kanye West · Ty Dolla $ign · YG · Nipsey Hussle",
-      "trackId": 1760997156
+      "title": "Piss On Your Grave",
+      "album": "Rodeo",
+      "artist": "Travis Scott feat. Kanye West",
+      "trackId": 1456179770
     },
     {
       "id": 90,
-      "title": "PROBLEMATIC",
-      "album": "VULTURES 1",
-      "artist": "¥$ · Kanye West · Ty Dolla $ign",
-      "trackId": 1760997268
+      "title": "All Your Fault",
+      "album": "Dark Sky Paradise",
+      "artist": "Big Sean feat. Kanye West",
+      "trackId": 1442857519
     },
     {
       "id": 91,
@@ -604,10 +604,10 @@
     },
     {
       "id": 92,
-      "title": "SLIDE",
-      "album": "VULTURES 2",
-      "artist": "¥$ · Kanye West · Ty Dolla $ign",
-      "trackId": 1761882416
+      "title": "FourFiveSeconds",
+      "album": "FourFiveSeconds - Single",
+      "artist": "Rihanna, Kanye West & Paul McCartney",
+      "trackId": 1445170918
     },
     {
       "id": 93,

@@ -73,10 +73,10 @@
     <section class="results" id="results"><div class="results-head"><h1>你的<br><span style="color:var(--acid)">YE INDEX</span></h1><div class="results-sub"><p>淘汰赛完成。下面是由你刚才每一场二选一写出的个人版本。排名不是定论，只是今天的你。</p><div class="result-actions"><button class="ghost" id="analysisResultBtn">查看选择分析</button><button class="ghost" id="shareBtn">分享我的 YE INDEX</button></div></div></div><div class="champion-summary" id="championSummary"></div><div class="result-tabs"><button class="tab active" data-limit="5">TOP 5</button><button class="tab" data-limit="10">TOP 10</button><button class="tab" data-limit="100">完整 100</button></div><div class="rank-list" id="rankList"></div><div class="local-audio"><label class="local-label" for="localFiles">＋ 选择音频文件</label><input id="localFiles" type="file" accept="audio/*" multiple><span id="localStatus">音频文件名包含歌曲名即可自动匹配</span></div><div class="footer-grid"><div class="note">排序方法：随机单败淘汰；100 首分上下半区，共 99 次选择；奇数轮有轮空。按淘汰轮次与胜场生成前十，同成绩随机打散，结果会受抽签影响。</div><div class="note">音乐只在你的浏览器本地读取，不会自动上传。</div></div></section>
     <audio id="audio" controls aria-label="试听播放器" style="position:fixed;left:-9999px;bottom:0"></audio>
   </main>
-  <script src="catalog.js"></script>
+  <script src="catalog.js?v=collabs-v2"></script>
   <script src="tournament.js"></script>
   <script>
-    const mediaCatalog=fetch("media.json?v=covers-20261028").then(r=>r.ok?r.json():{}).catch(()=>({}));
+    const mediaCatalog=fetch("media.json?v=collabs-v2").then(r=>r.ok?r.json():{}).catch(()=>({}));
     const songs = window.YE_CATALOG.songs.map(song=>({...song,seed:song.id}));
     const state={halves:[],pool:[],nextPool:[],round:1,match:0,total:0,results:[],bracket:[[],[],[]],halfIndex:0,activeHalf:0,halfWinners:[],phase:"half",currentA:null,currentB:null,wins:new Map(),audioSong:null,cache:new Map(),local:new Map(),lyrics:new Map()};
     const $=s=>document.querySelector(s); const audio=$("#audio");
